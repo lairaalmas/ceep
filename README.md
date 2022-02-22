@@ -1,6 +1,22 @@
+# CEPE
+
+### Projeto desenvolvido durante o curso [React: Entendendo como a biblioteca funciona](https://cursos.alura.com.br/course/react-js) da Alura:
+
+### Tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+  - [React](https://reactjs.org/)
+  - JSX
+
+---
+
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) running:
+
+### `npx create-react-app myApp`
 
 ## Available Scripts
 
