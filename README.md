@@ -1,4 +1,4 @@
-# CEPE
+# CEEP
 
 ### Projeto desenvolvido durante o curso [React: Entendendo como a biblioteca funciona](https://cursos.alura.com.br/course/react-js) da Alura:
 
